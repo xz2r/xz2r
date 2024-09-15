@@ -34,15 +34,9 @@
 ###
 
 <div align="left">
-  <a href="https://discord.com/users/740821505348206652" target="_blank">
+  <a href="https://discord.com/users/1267132971475931147" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="https://telegram.me/tahagorme" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
 </div>
 
 ###
-
-
-
