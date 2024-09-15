@@ -1,5 +1,3 @@
-<h2 align="left">Hi 👋! My name is Taha Gorme and I'm a fullstack developer</h2>
-
 ###
 
 <p align="left">I make discord scripts, discord bots, discord selfbots, desktop automation, youtube subbots, instagram follow bots, youtube comment bots, or anything you could think of. you can contact me on discord @uutu or on telegram @tahagorme</p>
